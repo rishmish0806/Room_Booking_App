@@ -2,8 +2,6 @@
 
 A meeting room booking app I built using Next.js 14, Appwrite, and Tailwind CSS. Users can browse rooms, check availability, and make reservations. There's a 14-day availability heatmap on each room's page, and a day-of-week occupancy chart that shows which days a room tends to be busiest and which are usually quiet.
 
-🔗 Live: [bookit-app-alpha.vercel.app](https://bookit-app-alpha.vercel.app)
-
 ---
 
 ## What it does
@@ -103,9 +101,5 @@ Open [http://localhost:3000](http://localhost:3000).
 ## Screenshot
 
 ![Room Booking App](./public/images/screen.png)
-
----
-
-## License
 
 MIT
