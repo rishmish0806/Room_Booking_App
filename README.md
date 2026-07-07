@@ -43,7 +43,6 @@ No new collections, no new dependencies. The hardest part was already solved by 
 - **Luxon** for date/time handling
 - **React Toastify** for notifications
 - **React Icons**
-- Deployed on **Vercel**
 
 ---
 
